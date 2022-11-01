@@ -6,3 +6,5 @@ This project's goal is to utilize HTML and JavaScript to visual the bellybutton 
 - Top 10 types of bacteria found
 - Wash frequency
 - Bacterial cultures per sample
+
+![Dashboard_Screenshot](Dashboard_Screenshot.png)
